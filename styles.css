@@ -9,11 +9,12 @@ body {
   color: #f6f0ee;
 }
 
+
 #logo {
   width: 7rem;
   height: 7rem;
   object-fit: contain;
-  margin-top: 2rem;
+  margin-top: 2rem; 
 }
 
 h1 {
